@@ -2,26 +2,21 @@
 
 Custom Homebrew formulas by [@subediparas5](https://github.com/subediparas5).
 
-## Installation
-
-```bash
-brew tap subediparas5/tap
-```
-
 ## Formulas
 
 ### lsport
 
 A TUI for managing local and remote ports via SSH.
 
+**Quick install:**
 ```bash
 brew install subediparas5/tap/lsport
 ```
 
-Or directly:
-
+**Or tap first, then install:**
 ```bash
-brew install subediparas5/tap/lsport
+brew tap subediparas5/tap
+brew install lsport
 ```
 
 ## More Info
