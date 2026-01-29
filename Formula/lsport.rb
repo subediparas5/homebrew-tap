@@ -5,7 +5,7 @@ class Lsport < Formula
   desc "TUI and CLI tool for managing local and remote ports via SSH"
   homepage "https://github.com/subediparas5/lsport"
   url "https://github.com/subediparas5/lsport.git",
-      tag: "v0.3.3"
+      tag: "v0.3.4"
   license "MIT"
   head "https://github.com/subediparas5/lsport.git", branch: "main"
 
