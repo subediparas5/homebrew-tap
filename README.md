@@ -6,7 +6,7 @@ Custom Homebrew formulas by [@subediparas5](https://github.com/subediparas5).
 
 ### lsport
 
-A TUI for managing local and remote ports via SSH.
+TUI and CLI tool for managing local and remote ports via SSH.
 
 **Quick install:**
 ```bash

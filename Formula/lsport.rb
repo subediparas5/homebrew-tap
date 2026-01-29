@@ -2,7 +2,7 @@
 # frozen_string_literal: true
 
 class Lsport < Formula
-  desc "A TUI for managing local and remote ports via SSH"
+  desc "TUI and CLI tool for managing local and remote ports via SSH"
   homepage "https://github.com/subediparas5/lsport"
   url "https://github.com/subediparas5/lsport.git",
       tag: "v0.3.3"
